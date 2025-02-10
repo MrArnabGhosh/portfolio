@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Bebas+Neue&family=Hubballi&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans+Bengali:wght@900&family=Poppins:wght@500&family=Trochut&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
