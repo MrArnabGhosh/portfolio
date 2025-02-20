@@ -1,12 +1,11 @@
 import React from 'react'
+import NavbarMain from './components/navbar/NavbarMain'
 
 function App() {
   return (
-    <div>
-        <h1>
-            
-        </h1>
-    </div>
+    <main className='font-body'>
+      <NavbarMain/>
+    </main>
   )
 }
 
